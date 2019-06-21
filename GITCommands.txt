@@ -1,0 +1,19 @@
+GIT Practice
+
+git init -> Initialize GIT
+
+git add [fileName] -> Add File to GIT
+
+git add -A -> Add Everything to GIT
+
+git status -> Displays Status
+
+git log -> Displays Log of Commits
+
+git commit -m "message" -> Commits Changes with Message
+
+git checkout "1st 7 chars of commit" -> Checkout Commit
+
+git push origin master -> Pushes commits to GitHub
+
+git pull origin master -> Pulls commits from Github
