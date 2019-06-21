@@ -1,0 +1,6 @@
+Terminal Commands
+
+mkdir [directory] -> Creates directory
+
+touch [fileName] [extension] -> Creates file
+
