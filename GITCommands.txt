@@ -8,9 +8,13 @@ git add -A -> Add Everything to GIT
 
 git status -> Displays Status
 
+git status --short -> Displays Smaller Status
+
 git log -> Displays Log of Commits
 
 git commit -m "message" -> Commits Changes with Message
+
+git commit -a -m -> Commits All Changes in Un-staged
 
 git checkout "1st 7 chars of commit" -> Checkout Commit
 
