@@ -14,7 +14,7 @@ git log -> Displays Log of Commits
 
 git commit -m "message" -> Commits Changes with Message
 
-git commit -a -m -> Commits All Changes in Un-staged
+git commit -a -m -> Commits All Changes in Un-staged with Message
 
 git checkout "1st 7 chars of commit" -> Checkout Commit
 
